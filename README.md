@@ -34,6 +34,7 @@
 |----------------|-----------------------|
 | ![HTML5 logo](https://img.icons8.com/color/24/html-5.png) **HTML** | Markup structure |
 | ![CSS3 logo](https://img.icons8.com/color/24/css3.png) **CSS**   | Styling and layout |
+| ![Bootstrap logo](https://img.icons8.com/color/24/bootstrap.png) **Bootstrap 5** | Responsive and styled design |
 | ![JavaScript logo](https://img.icons8.com/color/24/javascript--v1.png) **JavaScript** | Interactivity and logic |
 | ![VS Code logo](https://img.icons8.com/color/24/visual-studio-code-2019.png) **VS Code** | Code editor used |
 
