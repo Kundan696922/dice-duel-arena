@@ -4,7 +4,7 @@
 
 ## 🖼️ Overview
 
-
+![Screenshot 2025-05-22 014546](https://github.com/user-attachments/assets/42a252be-70b2-4bbb-a107-4d207e35c7a0)
 
 
 ## ✨ Features
@@ -18,7 +18,7 @@
 
 ## 🚀 Demo 
 
-> You can see the editor live here: 👉 [Show Demo](https://dice-duel-arena.netlify.app/)
+> You can see the web app live here: 👉 [Show Demo](https://dice-duel-arena.netlify.app/)
 
 
 ## 💻 Usage
