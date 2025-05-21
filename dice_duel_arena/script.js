@@ -10,11 +10,11 @@ function rollDice() {
 
     var resultText;
     if (randomNumber1 > randomNumber2) {
-        resultText = "🔥 Winner is Player 1!";
+        resultText = "🎖️ Winner is Player 1!";
     } else if (randomNumber1 === randomNumber2) {
         resultText = "⚖️ It's a Draw!";
     } else {
-        resultText = "🔥 Winner is Player 2!";
+        resultText = "🏆 Winner is Player 2!";
     }
 
     document.querySelector("h1").innerText = resultText;
